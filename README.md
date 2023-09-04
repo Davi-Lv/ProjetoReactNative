@@ -13,3 +13,5 @@ Contactify é um aplicativo de gerenciamento de contatos simples e intuitivo. El
 - Pesquisa rápida para encontrar contatos rapidamente.
 - Totalmente personalizável e extensível.
 - Sincronização com serviços de nuvem para backup e recuperação de dados.
+
+**( Projeto da faculdade )**
