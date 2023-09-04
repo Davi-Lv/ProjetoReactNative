@@ -16,7 +16,7 @@ export default function Login({ navigation }) {
             }}
           />
         </view>
-        <Input placeholder='Email' />
+        <Input placeholder='Login' />
         <Input placeholder='Senha' />
 
         <Button title="Login"
