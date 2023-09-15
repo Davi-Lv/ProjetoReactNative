@@ -1,0 +1,32 @@
+{
+  "contatos": [
+    {
+      "id": "1",
+      "name": "Amy Farha",
+      "avatar_url": "https://geekblog.com.br/wp-content/uploads/2020/12/Desktop-Wallpaper-Stormtrooper-Of-Star-Wars-Movie-Hd-Image-Picture-Background-8rgwwh.jpg.webp",
+      "telefone": "(81) 99999-9999",
+      "email": "amy@farha.com"
+    },
+    {
+      "id": "2",
+      "name": "Chris silva",
+      "avatar_url": "https://geekblog.com.br/wp-content/uploads/2020/12/Desktop-Wallpaper-Stormtrooper-Of-Star-Wars-Movie-Hd-Image-Picture-Background-8rgwwh.jpg.webp",
+      "telefone": "(81) 88888-8888",
+      "email": "chris@silva.com"
+    },
+    {
+      "id": "3",
+      "name": "Jackson cabral",
+      "avatar_url": "https://geekblog.com.br/wp-content/uploads/2020/12/Desktop-Wallpaper-Stormtrooper-Of-Star-Wars-Movie-Hd-Image-Picture-Background-8rgwwh.jpg.webp",
+      "telefone": "(81) 77777-7777",
+      "email": "jackson@cabral.com"
+    },
+    {
+      "id": "4",
+      "name": "teste",
+      "avatar_url": "https://geekblog.com.br/wp-content/uploads/2020/12/Desktop-Wallpaper-Stormtrooper-Of-Star-Wars-Movie-Hd-Image-Picture-Background-8rgwwh.jpg.webp",
+      "telefone": "(81) 66666-6666",
+      "email": "teste@teste.com"
+    }
+  ]
+}
