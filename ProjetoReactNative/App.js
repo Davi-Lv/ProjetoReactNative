@@ -16,7 +16,7 @@ const globalScreenOptions = {
 
 function MyStack() {
   return (
-    <Stack.Navigator initialRouteName="ListaTell" screenOptions={globalScreenOptions}>
+    <Stack.Navigator initialRouteName="Inicio" screenOptions={globalScreenOptions}>
       <Stack.Screen name="Login" component={Login} />
       <Stack.Screen name="Inicio" component={Inicio} />
       <Stack.Screen name="Cadastrar" component={Cadastrar} />
